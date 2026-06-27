@@ -2,12 +2,12 @@
 
 > **Status:** Under Active Development
 
-Coda is an AI-powered browser IDE that enables developers to build, edit, and run full-stack applications entirely within the browser. Built with **Next.js**, **WebContainers**, **Monaco Editor**, and **Ollama**, it provides an integrated development environment with AI-assisted coding, browser-based execution, and support for multiple project templates.
+Coda is an AI powered browser IDE that enables developers to build, edit, and run full stack applications entirely within the browser. Built with **Next.js**, **WebContainers**, **Monaco Editor**, and **Ollama**, it provides an integrated development environment with AI-assisted coding, browser-based execution, and support for multiple project templates.
 
 ## Features
 
-* Browser-native development powered by WebContainers
-* AI-assisted code completion using local LLMs through Ollama
+* Browser native development powered by WebContainers
+* AI assisted code completion using local LLMs through Ollama
 * Monaco Editor with syntax highlighting, formatting, and keyboard shortcuts
 * Custom file explorer for creating, organizing, and managing project files
 * Embedded terminal powered by xterm.js
@@ -92,7 +92,7 @@ Next.js App Router
 
 ### Runtime
 
-* Browser-based application execution
+* Browser based application execution
 * Integrated Terminal
 * Multiple Framework Templates
 
@@ -167,7 +167,7 @@ http://localhost:3000
 
 ## Future Improvements
 
-* AI-powered chat assistant with project context
+* AI powered chat assistant with project context
 * Git integration
 * Live collaborative editing
 * Extension/plugin support
